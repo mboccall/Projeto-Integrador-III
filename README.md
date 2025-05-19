@@ -16,7 +16,7 @@ Antes de executar o projeto, certifique-se de ter instalado:
 
 ```bash
 git clone https://github.com/mboccall/Projeto-Integrador-III.git
-cd seu-projeto
+cd Projeto-Integrador-III/node-backend
 ```
 
 ### 2. Instale as dependências
