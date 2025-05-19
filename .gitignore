@@ -2,3 +2,8 @@
 node-backend/node_modules/
 node-backend/.wwebjs_auth/
 dashboard-page/
+
+# Ignorar node_modules e arquivos grandes
+node_modules/
+*.exe
+*.dll
