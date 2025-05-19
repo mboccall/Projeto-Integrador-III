@@ -1,5 +1,4 @@
 # Ignorar node_modules
 node-backend/node_modules/
 node-backend/.wwebjs_auth/
-
-dashboard-page/dashboard-temp/node_modules
+dashboard-page/
